@@ -1,6 +1,13 @@
 # Flask simple file upload example
 Python script to upload file using flask
 
+## Requirements
+To install application requirements execute:
+
+```
+pip3 install -r requirements.txt
+```
+
 ## Usage
 This application exposes a enpoint:
 
